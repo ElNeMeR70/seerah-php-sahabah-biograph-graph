@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-sahabah-biograph-graph",
+  "description": "Companions (Al-Sahabah) Biographical Network & Tabaqat Graph (شبكة تراجم الصحابة الكرام والبدريين والعشرة المبشرين)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
